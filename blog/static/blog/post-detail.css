@@ -50,6 +50,11 @@ body {
   
   #summary a {
     color: white;
+    text-decoration: None;
+  }
+
+  #summary a {
+    color: white;
     text-decoration: none;
   }
   
